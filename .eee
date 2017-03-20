@@ -1,5 +1,5 @@
 {
   "course": "143B",
-  "assignment": "src/main.py",
+  "assignment": "src/quantum_mechanics.py",
   "name": "CS143B Project 2"
 }

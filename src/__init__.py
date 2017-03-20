@@ -1,1 +1,1 @@
-from main import minus
+from quantum_mechanics import minus
